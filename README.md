@@ -1,4 +1,4 @@
-### 👋 Hi, I'm Dhwani Budhiraja!
+# 👋 Hi, I'm Dhwani Budhiraja!
 
 👩🏻‍💻 Software Engineer sharing about my journey and learnings in technology <br/>
 👩🏻‍🎓 Studying Computer Science at VIT Bhopal University<br/>
